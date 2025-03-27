@@ -1,4 +1,4 @@
-## LoginPaSimple PHP Login System
+# Simple PHP Login System
 
 # Overview
 
