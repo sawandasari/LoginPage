@@ -1,10 +1,10 @@
-# LoginPaSimple PHP Login System
+## LoginPaSimple PHP Login System
 
-Overview
+# Overview
 
 This project is a basic login system implemented using PHP. It allows users to log in with predefined credentials and access a welcome page. The session management ensures that only authenticated users can view the welcome page. Additionally, users can log out, which destroys the session and redirects them back to the login page.
 
-Features
+# Features
 
 Secure session-based authentication
 
@@ -14,13 +14,13 @@ Redirection for unauthorized access
 
 Logout functionality
 
-Files Included
+# Files Included
 
 snippet.php - Login page where users enter their credentials
 
 welcome.php - Restricted page accessed after successful login
 
-How It Works
+# How It Works
 
 The user enters their username and password on the snippet.php page.
 
